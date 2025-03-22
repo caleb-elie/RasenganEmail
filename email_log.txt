@@ -1,0 +1,2 @@
+2025-03-22 11:28:58,742 - Error: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 00721157ae682-700ba7796b6sm7093277b3.48 - gsmtp')
+2025-03-22 11:32:16,419 - Sent email to h4ruk21i@gmail.com
