@@ -26,3 +26,24 @@ cd RasenganEmail
 
 ## clone the script
 python rasengan_email.py
+
+## For those facing problems in Kali try this:
+# 1. Install venv if it's not installed
+sudo apt install python3-venv  
+
+# 2. Create a virtual environment
+python3 -m venv venv  
+
+# 3. Activate the virtual environment
+source venv/bin/activate  
+
+# 4. Install colorama inside the virtual environment
+pip install colorama
+pip install art
+pip install yagmail
+
+# 5. Check if it's installed
+pip show colorama 
+pip show art
+pip show yagmail
+
